@@ -1,6 +1,6 @@
-# .github
-Fun education in technology
+# αlpha centauri
 
+## Fun education in technology
 
 Welcome to **αlpha centauri**, your ultimate destination for mastering technology! Whether you’re a complete beginner or an experienced professional, our platform offers training in **programming, basic electronics, IT infrastructure**, and **artificial intelligence**.
 

@@ -1,3 +1,5 @@
+![Alpha Centauri Logo!](https://alpha-centauri.co.uk/wp-content/uploads/2024/07/300x300-150x150.webp)
+
 # αlpha centauri
 
 ## Fun education in technology
